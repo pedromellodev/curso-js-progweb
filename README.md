@@ -1,2 +1,2 @@
-# curso-js-mbattisti
-Curso Javascript do canal "Matheus Battisti"
+# curso-js-progweb
+Curso Javascript do canal "Programação Web"
