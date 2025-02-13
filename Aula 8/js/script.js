@@ -12,10 +12,7 @@ const carro = {
     ano: 2015,
     modelo: "KA",
     placa: "ABC-1234",
-    descricao: function(){
-        console.log("Marca:" + this.marca + " Ano:" + this.ano)
+    gerarDescricao: function(){
+        document.getElementById("description").innerHTML = "Marca:" + this.marca + " Ano:" + this.ano
     }
 }
-
-console.log(carro.marca)
-console.log(carro.descricao())
